@@ -2,7 +2,7 @@
 쯔구르 MV에서 테스트를 할 때 사용할 플레이어를 지정해서 사용할 수 있도록 도와줍니다.
 
 # 설치방법
-[Releases](./releases) 탭에서 파일을 다운로드 한 후, 압축을 풀어주세요.  
+[Release](https://github.com/Creta5164/AlterMVTestPlayer/releases) 탭에서 파일을 다운로드 한 후, 압축을 풀어주세요.  
 RPG Maker MV를 실행한 후, 상단의 `도구/RPG 만들기 MV 도구...`를 선택합니다.
 
 ![tools](img/tools.png)
